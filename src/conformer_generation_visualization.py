@@ -8,7 +8,6 @@ def conformer_generator(input, output, numconf, add_ref):
     # Generate conformers
     cids = AllChem.EmbedMultipleConfs(mol, numConfs=numconf, randomSeed=1)
 
-    # If a reference molecule should be added, load it and add it to the output
     if add_ref:
         ref_mol = Chem.MolFromSmiles(add_ref)
         ref_mol = Chem.AddHs(ref_mol)
@@ -21,7 +20,6 @@ def conformer_generator(input, output, numconf, add_ref):
     writer.close()
 
 def draw(ms, p=None, confIds=None):
-    # Draw the molecules with provided properties and conformers
     img = Draw.MolsToGridImage(ms, molsPerRow=4, subImgSize=(200,200), legends=[x.GetProp("_Name") for x in ms])
 
     if p is not None:
