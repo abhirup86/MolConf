@@ -15,8 +15,8 @@ The project also includes a Jupyter notebook, which guides you through the proce
 
 ## Set Up
 ### Dependencies
-RDKit: Generate and manipulate the molecular structures.
-py3Dmol: Visualization of molecular structures.
-XTB: optimizing conformers.
-CREST: For conformer search.
-Plotly: Plot of data.
+1. `RDKit`: Generate and manipulate the molecular structures.
+2. `py3Dmol`: Visualization of molecular structures.
+3. `XTB`: optimizing conformers.
+4. `CREST`: For conformer search.
+5. `Plotly`: Plot of data.
