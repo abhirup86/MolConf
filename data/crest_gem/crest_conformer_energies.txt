@@ -1,0 +1,134 @@
+conformer: 1 	 energy:        -82.41934660
+
+conformer: 2 	 energy:        -82.41886552
+
+conformer: 3 	 energy:        -82.41792222
+
+conformer: 4 	 energy:        -82.41782548
+
+conformer: 5 	 energy:        -82.41695028
+
+conformer: 6 	 energy:        -82.41571964
+
+conformer: 7 	 energy:        -82.41528689
+
+conformer: 8 	 energy:        -82.41520899
+
+conformer: 9 	 energy:        -82.41496997
+
+conformer: 10 	 energy:        -82.41494556
+
+conformer: 11 	 energy:        -82.41443461
+
+conformer: 12 	 energy:        -82.41427441
+
+conformer: 13 	 energy:        -82.41406929
+
+conformer: 14 	 energy:        -82.41395043
+
+conformer: 15 	 energy:        -82.41375200
+
+conformer: 16 	 energy:        -82.41371988
+
+conformer: 17 	 energy:        -82.41358769
+
+conformer: 18 	 energy:        -82.41357206
+
+conformer: 19 	 energy:        -82.41345095
+
+conformer: 20 	 energy:        -82.41336553
+
+conformer: 21 	 energy:        -82.41335265
+
+conformer: 22 	 energy:        -82.41332942
+
+conformer: 23 	 energy:        -82.41329722
+
+conformer: 24 	 energy:        -82.41324781
+
+conformer: 25 	 energy:        -82.41314796
+
+conformer: 26 	 energy:        -82.41306989
+
+conformer: 27 	 energy:        -82.41302835
+
+conformer: 28 	 energy:        -82.41270329
+
+conformer: 29 	 energy:        -82.41261225
+
+conformer: 30 	 energy:        -82.41228102
+
+conformer: 31 	 energy:        -82.41214314
+
+conformer: 32 	 energy:        -82.41209994
+
+conformer: 33 	 energy:        -82.41200211
+
+conformer: 34 	 energy:        -82.41182602
+
+conformer: 35 	 energy:        -82.41147235
+
+conformer: 36 	 energy:        -82.41130111
+
+conformer: 37 	 energy:        -82.41129608
+
+conformer: 38 	 energy:        -82.41118724
+
+conformer: 39 	 energy:        -82.41117756
+
+conformer: 40 	 energy:        -82.41115138
+
+conformer: 41 	 energy:        -82.41114749
+
+conformer: 42 	 energy:        -82.41113981
+
+conformer: 43 	 energy:        -82.41110981
+
+conformer: 44 	 energy:        -82.41109440
+
+conformer: 45 	 energy:        -82.41085948
+
+conformer: 46 	 energy:        -82.41084515
+
+conformer: 47 	 energy:        -82.41073316
+
+conformer: 48 	 energy:        -82.41055344
+
+conformer: 49 	 energy:        -82.41054912
+
+conformer: 50 	 energy:        -82.41047162
+
+conformer: 51 	 energy:        -82.41043548
+
+conformer: 52 	 energy:        -82.41042611
+
+conformer: 53 	 energy:        -82.41040700
+
+conformer: 54 	 energy:        -82.41039596
+
+conformer: 55 	 energy:        -82.41031784
+
+conformer: 56 	 energy:        -82.41029229
+
+conformer: 57 	 energy:        -82.41027747
+
+conformer: 58 	 energy:        -82.41008027
+
+conformer: 59 	 energy:        -82.41007144
+
+conformer: 60 	 energy:        -82.40993569
+
+conformer: 61 	 energy:        -82.40991934
+
+conformer: 62 	 energy:        -82.40989342
+
+conformer: 63 	 energy:        -82.40986255
+
+conformer: 64 	 energy:        -82.40984009
+
+conformer: 65 	 energy:        -82.40982684
+
+conformer: 66 	 energy:        -82.40981842
+
+conformer: 67 	 energy:        -82.40978612
+
